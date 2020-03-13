@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "APBD2": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    },
+    "new": {
+      "commandName": "Executable",
+      "commandLineArgs": " \"C:\\Users\\jdlus\\Desktop\\dane.csv\" \"C:\\Users\\jdlus\\Desktop\\wynik.xml\" json"
+    }
+  }
+}
